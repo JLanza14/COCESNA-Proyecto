@@ -1,2 +1,4 @@
 # COCESNA-Proyecto
-Proyecto para COCESNA en la clase de Ingenieria de Software
+Proyecto realizado para COCESNA. https://cocesna.org/home/
+Area de Recursos Humanos
+Presentado en la clase de Ingenieria de Software
